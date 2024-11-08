@@ -6,6 +6,7 @@
 
 ## 💻 기술 스택
 
+<br>
 
 <!-- 첫 번째 줄 (최대 5개 아이콘) -->
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=SQLAlchemy&logoColor=white" height="22"/>
@@ -85,4 +86,3 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" height="22")](https://www.linkedin.com/in/yourprofile/) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" height="22")](https://twitter.com/yourprofile)
