@@ -1,4 +1,5 @@
-![Header](https://yourimageurl.com/banner.png)
+![Header](./banner.gif)
+
 
 # 안녕하세요, 저는 **rinrinmu**입니다! 👋
 
