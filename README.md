@@ -8,7 +8,6 @@
 ## 💻 기술 스택
 
 <br>
-
 <!-- 첫 번째 줄 (최대 5개 아이콘) -->
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=SQLAlchemy&logoColor=white" height="22"/>
 <br>
@@ -21,7 +20,6 @@
 ## 🌱 배우고 있는 기술
 
 <br>
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" height="22"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white" height="22"/>
 
 ---
@@ -29,10 +27,8 @@
 ## 🛠 개발 도구
 
 <br>
-
 <!-- 첫 번째 줄 -->
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Eclipse&nbsp;IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Visual&nbsp;Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white" height="22"/>
-
 <br>
 
 <!-- 두 번째 줄 -->
@@ -43,7 +39,6 @@
 ## 💻 사용하는 운영체제
 
 <br>
-
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=Fedora&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Raspbian-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" height="22"/>
 
 ---
